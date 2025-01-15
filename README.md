@@ -1,12 +1,14 @@
 # Hi there, I'm Mamo! 👋
-
+![Banner](https://mamodrawsart.carrd.co/assets/images/container01.jpg?v=20e5145b)
+---
 🎨 **Passionate artist and graphic designer**  
-💻 Specializing in logo creation, anime art, game UI logos, and children’s book illustrations  
+💻 Specializing in logo creation, anime art, game UI logos, and more !
+
 
 ---
 
 ## 🌟 About Me
-Hi, I’m Mamo, an artist with a love for bringing visions to life! From crafting stunning logos to designing whimsical illustrations, I thrive on creative challenges and turning ideas into impactful visuals. Based in Tahiti, my work is inspired by the vibrant culture and natural beauty that surrounds me.  
+Hi, I’m Mamo, an artist based in Tahiti with a love for bringing visions to life! From crafting stunning logos to designing whimsical illustrations, I thrive on creative challenges and turning ideas into impactful visuals.
 
 ---
 
@@ -18,53 +20,24 @@ Hi, I’m Mamo, an artist with a love for bringing visions to life! From craftin
 - Procreate
 - Blender
 
-### **Web & Programming**
+### **Programming**
 - HTML, CSS, JavaScript
 - Wix, Carrd
+- Unreal Engine 4
+- Unity
 
 ### **Specialties**
 - Logo Design
 - Anime Art Commissions
 - Game Art (UI or Logo)
 - Children’s Book Illustrations
-
----
-
-## 🎨 Featured Projects
-
-### **Tiar’E Guide**
-An interactive cultural app designed to connect users with the traditions and beauty of Tahiti.  
-[View Project](#)
-
-### **Com’AuResto**
-Web design for restaurants, creating user-friendly and visually appealing digital menus and branding.  
-[View Project](#)
-
-### **Portfolio: MamoDrawsArt**
-Explore my creative journey and portfolio showcasing my passion for design and art.  
-[View Portfolio](#)
-
----
-
-## 📊 GitHub Stats
-
-![Mamo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MamoDrawsArt&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamoDrawsArt&layout=compact&theme=radical)
+- VRoid Models
 
 ---
 
 ## 💌 Let’s Connect
 
-- 🌐 [Portfolio](#)
-- 📧 Email: [contact@mamodrawsart.com](mailto:contact@mamodrawsart.com)
-- 📸 Instagram: [@MamoDrawsArt](#)
-- 🐦 Twitter: [@MamoDrawsArt](#)
-
----
-
-### Fun Fact
-Did you know? I find inspiration in Tahiti’s breathtaking landscapes, from lush green mountains to crystal-clear lagoons. Nature fuels my creativity every day! 
+- 🌐 [Portfolio](http://www.mamodrawsart.com)
 
 ---
 
